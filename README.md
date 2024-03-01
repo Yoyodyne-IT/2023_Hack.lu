@@ -49,7 +49,7 @@ Integration with 3rd party services:
 
 We assume you have the following environment at your disposal:
 
-* Ubuntu 22.04 or 23.04. It can be an other similar general purpose operating system (Debian 10, Fedora),
+* Ubuntu 22.04 or 23.10. It can be an other similar general purpose operating system (Debian 10, Fedora),
   but specialized distros such as Kali Linux are strongly discouraged and won't be supported if you have issues.
 
   **NOTE**: It is assumed that you're *not* running as root, but the account you're using is administrator (tl;dr: `sudo` works)
